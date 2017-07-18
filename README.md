@@ -5,4 +5,4 @@ A simple starter bundle for AngularJS with Webpack and ES6 support.
 - git clone <repository>
 - cd webpack-angular-es6/
 - npm install 
-- *npm start:* To start the webpack-dev-server
+- **npm start** in order to start the webpack-dev-server
